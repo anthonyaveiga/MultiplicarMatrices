@@ -31,7 +31,7 @@ namespace MultiplicarMatrices
 			if (colm1 != fila2)
 			{
 				Console.Write("No se puede realizar la multiplicacion");
-				Console.Write("\nEl numero de filas de la primera matriz debe ser igual al de columnas de la segunda matriz\n");
+				Console.Write("\nEl numero de columnas de la primera matriz debe ser igual al de filas de la segunda matriz\n");
 			}
 			else
 			{
